@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋 am Alice Wanjiru
+## Pronounce 
+she\her
+## About me
+- I'm a student in the **IYF programming class 203**
+- currently learning **Git, GitHub, and programming basics**
+- my aim is to become a skilled developer and work on exiting project
+- Fun fuct; I love team work,solving problems and learning new things everyday
+  ## Current learning goals
+- Understanding Git and GitHub deeply
+- Building my first real projects
+- Improving my programming skills step by step
+ ##Technologys I'm studying
+- Git and GitHub
+## Current coursework
+- IYF programming class projects and assignments 
+- GitHub profile README set up
+- ## Ask me about
+- My learning journey as a biginner developer
+- Basics of web development
+- How am usimg GitHub to build my portfolio
+  ## How to reach me
+  **alice.shiru7777@gmail.com**
 
-<!--
-**Alicemacharia/Alicemacharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  *This README is part of my IYF programming assignment.*
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
