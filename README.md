@@ -1,6 +1,6 @@
-## Hi there 👋 am Alice Wanjiru
-## Pronounce 
-she\her
+## Hi there 👋 I'm Alice Wanjiru
+## Pronouns 
+she/her
 ## About me
 - I'm a student in the **IYF programming class 203**
 - currently learning **Git, GitHub, and programming basics**
