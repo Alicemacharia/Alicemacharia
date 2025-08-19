@@ -1,16 +1,16 @@
-### Hi there 👋, I'm Alice Wanjiru
+# Hi there 👋, I'm Alice Wanjiru
 ### Pronouns 
 She/Her
 ### About Me
 - I'm a student in the **IYF programming class 203**
 - Currently learning **Git, GitHub, and programming basics**
 - My aim is to become a skilled developer and work on exciting projects
-- Fun Fact: I love teamwork, solving problems and learning new things everyday
+- Fun Fact: I love teamwork, solving problems, and learning new things everyday
   ### Current Learning Goals
 - Understanding Git and GitHub deeply
 - Building my first real projects
 - Improving my programming skills step-by-step
- ### Technologies I'm studying
+ ### Technologies I'm Studying
 - Git and GitHub
 ### Current Coursework
 - IYF programming class projects and assignments 
