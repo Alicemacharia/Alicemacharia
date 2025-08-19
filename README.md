@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Alice Wanjiru
-## Pronouns 
+### Pronouns 
 she/her
-## About me
+### About me
 - I'm a student in the **IYF programming class 203**
-- currently learning **Git, GitHub, and programming basics**
-- my aim is to become a skilled developer and work on exiting project
+- Currently learning **Git, GitHub, and programming basics**
+- My aim is to become a skilled developer and work on exiting project
 - Fun fuct; I love team work,solving problems and learning new things everyday
   ## Current learning goals
 - Understanding Git and GitHub deeply
